@@ -28,3 +28,4 @@ jobs:
       # Runs a single command using the runners shell
       - name: compile latex cv
         run: pdflatex main.tex
+
